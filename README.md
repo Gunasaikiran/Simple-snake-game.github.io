@@ -11,7 +11,8 @@ JS
 
 <p align="center">
   <img src="https://github.com/Gunasaikiran/Simple-snake-game/blob/main/img/bg.jpg" >
-  <img src="" >
+ output:
+  <img src="https://github.com/Gunasaikiran/Simple-snake-game/blob/main/Snake%20game%20output.png" >
   
 </p>
 
