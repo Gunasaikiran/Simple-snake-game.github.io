@@ -10,9 +10,8 @@ CSS3
 JS
 
 <p align="center">
-  <img src="https://github.com/Gunasaikiran/Restaurant-Website/blob/main/screenshot%2001.png" >
-  <img src="https://github.com/Gunasaikiran/Restaurant-Website/blob/main/website%20screen%20shots.png" >
-  <img src="https://github.com/Gunasaikiran/Restaurant-Website/blob/main/website%20screenshot02.png" >
+  <img src="https://github.com/Gunasaikiran/Simple-snake-game/blob/main/img/bg.jpg" >
+  <img src="" >
   
 </p>
 
