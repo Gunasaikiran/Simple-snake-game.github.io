@@ -2,7 +2,7 @@
 This is a Simple snake game, designed using html , javascript and css.
  "responsive game design".
 
-Add a Star 🌟 to this 👆 Repositor
+Add a Star 🌟 to this 👆 Repository
 
 Technologies Used
 HTML5
