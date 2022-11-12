@@ -1,6 +1,8 @@
 # Simple-snake-game
 This is a Simple snake game, designed using html , javascript and css.
  "responsive game design".
+ 
+ Online Example<a href="https://gunasaikiran.github.io/Simple-snake-game.github.io/">Simple Game</a>
 
 Add a Star 🌟 to this 👆 Repository
 
